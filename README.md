@@ -1,2 +1,2 @@
-# C-console-game-
+# Cpp-console-game
 C++ study with console game example
